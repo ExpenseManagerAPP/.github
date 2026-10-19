@@ -1,0 +1,2 @@
+# .github
+Expense Manager App
